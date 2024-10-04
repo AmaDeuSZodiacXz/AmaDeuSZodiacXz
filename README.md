@@ -1,7 +1,7 @@
 Hi 👋 My name is Pakawat Phasook
 ================================
 
-* ✉️  You can contact me at [https://www.linkedin.com/in/pakawat-phasook-305274229/](mailto:https://www.linkedin.com/in/pakawat-phasook-305274229/)
+* ✉️  You can contact me at https://www.linkedin.com/in/pakawat-phasook-305274229/
 
 <a href="https://www.github.com/AmaDeuSZodiacXz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AmaDeuSZodiacXz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
